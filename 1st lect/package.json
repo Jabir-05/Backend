@@ -1,5 +1,5 @@
 {
-  "name": "chaibackend",
+  "name": "backend",
   "version": "1.0.0",
   "description": "a basic app to deploy",
   "main": "index.js",
@@ -15,5 +15,14 @@
   "dependencies": {
     "dotenv": "^17.2.1",
     "express": "^5.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jabir-05/Backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jabir-05/Backend/issues"
+  },
+  "homepage": "https://github.com/Jabir-05/Backend#readme"
 }
